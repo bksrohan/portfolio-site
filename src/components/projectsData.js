@@ -24,10 +24,17 @@ export const projects = [
       tech: ["React", "Vite", "JavaScript"],
     },
     {
-      title: "My Portfolio Website",
-      description: "A friendly and creative portfolio built with React and Vite to showcase my projects and growth.",
-      link: "https://your-portfolio-site.netlify.app",
+      title: "Color Flipper",
+      description: "A simple app that changes the background color randomly on button click.",
+      link: "https://color-flipper-by-bksrohan.netlify.app/",
       tech: ["React", "Vite", "JavaScript"],
     },
+    {
+      title: "My Portfolio Website",
+      description: "A friendly and creative portfolio built with React and Vite to showcase my projects and growth.",
+      link: "https://rohan-patel-portfolio.netlify.app/",
+      tech: ["React", "Vite", "JavaScript"],
+    },
+
   ];
   
